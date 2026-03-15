@@ -10,6 +10,7 @@
 **基于 DeepSeek AI + 实时新闻 + 技术指标，一键研判基金买卖时机**
 
 [快速开始](#-快速开始) · [功能介绍](#-功能介绍) · [获取 API Key](#-获取-api-key) · [本地部署](#-本地部署)
+![界面预览](./preview.png) 
 
 </div>
 
@@ -107,6 +108,7 @@
 ### 部署步骤
 
 **第一步：克隆项目**
+
 
 ```bash
 git clone https://github.com/your-username/FundSense-AI.git
